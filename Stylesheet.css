@@ -1,0 +1,91 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #E7DFF2;
+    
+    
+}
+
+
+
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #5C41BF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 5px;
+    margin: 50px;
+    margin-bottom: 500px;
+
+  }
+  
+  .topnav a:hover {
+    background-color: #7C69BF;
+    border-radius: 5px;
+    color: #E7DFF2;
+  }
+  
+  .topnav a.active {
+    background-color: #7C69BF;
+    color: #E7DFF2;
+  }
+
+h1 {
+    font-size: 180px;
+    color: #5C41BF;
+    padding-top: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-variant-caps: all-small-caps;
+}
+
+h2 {
+    color: #5C41BF;
+}
+
+.container {
+
+    display: flex;
+    gap: 20px;
+    background-color: #E7DFF2;
+    padding: 10px;
+    border-radius: 20px;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 20px;
+    color: #7C69BF;
+}
+
+section {
+    background-color: #7C69BF;
+    padding: 130px;
+
+}
+
+h3 {
+    color: #0D0D0D;
+    font-size: 100px;
+    margin-bottom: 10%;
+}
+
+h6 {
+
+    margin-right: 10px;
+}
+
+.containernav {
+    display: flex;
+    margin: 0 auto;
+    width: fit-content;
+}
+
