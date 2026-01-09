@@ -9,6 +9,6 @@ function scrollToModels1() {
   }
 
   function scrollToModels3() {
-    var container1 = document.getElementById("container1");
-    container1.scrollIntoView({ behavior: 'smooth' });
+    var section3 = document.getElementById("section3");
+    section3.scrollIntoView({ behavior: 'smooth' });
   }
